@@ -120,7 +120,7 @@ p {
         border-radius: 50%;
         background-color: rgba(247, 193, 162, 0.7);
         /* transform: translate(60%, 80%); */
-        position: absolute; 
+        position: absolute;
         top: 325px;
         right: 50px;
     }
